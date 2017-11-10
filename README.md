@@ -29,4 +29,5 @@ CaridadeOnline is a laravel-LTS-powered, cloud-enabled, mobile-ready, API compli
   - Use Charis Api to build powerful applications on scale
   - SEO-Friendly
   - OPEN-SOURCE under GPL license
+  -
 
